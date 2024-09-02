@@ -4,7 +4,7 @@ I created to sample project with html css and sass.
 <br>
 Created to website basicly.
 <br>
-I tried to sample github profile.
+I tried to creat sample github profile.
 <br>
 You should check this out.
 <br>
